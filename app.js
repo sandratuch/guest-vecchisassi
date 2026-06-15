@@ -318,8 +318,7 @@ Tel. +39 0183 730979 | +39 339 8521470<br>
 <a href="http://www.acaducappellan.it" target="_blank">Website besuchen</a></p>
 
 <h2>Strandrestaurants & Bars</h2>
-
-<img class="section-img" src="assets/shared/buraxen.jpg" alt="Bagni Buraxen">
+<img class="section-img" src="assets/tunin/buraxen.jpg" alt="Bagni Buraxen">
 
 <h3>Bagni Buraxen</h3>
 <p>Corso Giovanni Boine 2, Imperia<br>
