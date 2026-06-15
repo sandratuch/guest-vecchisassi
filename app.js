@@ -477,38 +477,82 @@ const pages = {
     <p><strong>Ort:</strong> Via Felice Cascione, Porto Maurizio</p>
   `,
 glutenfree: `
-<h1>🌾 Glutenfrei in Ligurien</h1>
+  <h1>Glutenfrei</h1>
 
-<p>Italien gehört zu den besten Reiseländern für Menschen mit Zöliakie oder Glutenunverträglichkeit.</p>
+  <p>Bitte bei Reservierung oder Bestellung immer ausdrücklich auf Glutenunverträglichkeit oder Zöliakie hinweisen.</p>
 
-<h2>🍕 Glutenfreie Pizza</h2>
+  <h2>🍕 Glutenfreie Pizza</h2>
 
-<h3>Fermento (Oneglia Hafen)</h3>
-<p>Pizzeria mit vielen Teigvarianten und unserer Meinung nach der besten glutenfreien Pizza in Imperia.</p>
+  <h3>Fermento (Oneglia Hafen)</h3>
+  <p>Pizzeria mit vielen Teigvarianten, beste glutenfreie Pizza Imperias.<br>
+  📍 Calata G.B. Cuneo 49, Imperia<br>
+  ☎️ <a href="tel:+3901831972008">+39 0183 1972008</a></p>
 
-<h3>Il Melograno (Oneglia Hafen)</h3>
-<p>Pizzeria am Hafen mit vier verschiedenen Pizzateigen und glutenfreien Optionen.</p>
+  <hr>
 
-<h3>Kilo Pizza (Borgo Prino)</h3>
-<p>Spezialisiert auf Pinsa Romana mit glutenfreien Optionen.</p>
+  <h3>Il Melograno (Oneglia Hafen)</h3>
+  <p>Pizzeria am Hafen mit 4 verschiedene Pizzateigen, glutenfreie Optionen.<br>
+  📍 Via Des Geneys 12 / Calata G. B. Cuneo 7, Imperia<br>
+  ☎️ <a href="tel:+390183272907">+39 0183 272907</a></p>
 
-<h3>Oasi La Pizza (Borgo Marina)</h3>
-<p>Pizzeria seit 1984 mit großer Auswahl und glutenfreien Optionen.</p>
+  <hr>
 
-<h2>🍦 Eisdielen</h2>
+  <h3>Kilo Pizza (Borgo Prino)</h3>
+  <p>Spezialisiert auf Pinsa Romana, leichte Gourmet-Pizza, glutenfreie Optionen.<br>
+  📍 Lungomare C. Colombo 188, Imperia<br>
+  ☎️ <a href="tel:+390183681213">+39 0183 681213</a></p>
 
-<p><strong>Gelateria Pinotto</strong><br>
-Glutenfreie Waffeln erhältlich.</p>
+  <hr>
 
-<p><strong>Gelateria La Foce</strong><br>
-Glutenfreie Waffeln erhältlich.</p>
+  <h3>Oasi La Pizza (Borgo Marina)</h3>
+  <p>Pizzeria seit 1984, große Auswahl, auch Pasta & Terrasse, glutenfreie Optionen.<br>
+  📍 Piazza Sant’Antonio 15, Imperia<br>
+  ☎️ <a href="tel:+390183666892">+39 0183 666892</a><br>
+  🌐 <a href="https://oasilapizza.it" target="_blank">oasilapizza.it</a></p>
 
-<h2>🥐 Glutenfreie Bäckerei</h2>
+  <h2>🍽 Restaurants mit glutenfreien Optionen</h2>
 
-<p><strong>Il Fornaio di Alassio</strong><br>
-<a href="https://www.ilfornaiodialassio.it/en-gb/gluten-free" target="_blank">
-Website öffnen
-</a></p>
+  <h3>La Ruota (Borgo Foce)</h3>
+  <p>Traditions-Fischrestaurant seit 1979, exzellente mediterrane Küche. Romantisch gelegen im alten Fischerhafen.<br>
+  📍 Largo Spianata Varese 25, Imperia<br>
+  ☎️ <a href="tel:+39018361206">+39 0183 61206</a><br>
+  🌐 <a href="https://laruotaimperia.com" target="_blank">laruotaimperia.com</a></p>
+
+  <hr>
+
+  <h3>I Sognatori (Borgo Foce)</h3>
+  <p>Mediterrane Küche, romantisch gelegen im alten Fischerhafen.<br>
+  📍 Largo Varese 16, Imperia<br>
+  ☎️ <a href="tel:+39018363179">+39 0183 63179</a><br>
+  🌐 <a href="https://isognatori.fun" target="_blank">isognatori.fun</a></p>
+
+  <hr>
+
+  <h3>Bar La Terrazza sul Mare (Prino)</h3>
+  <p>Aperitivi & Snacks mit herrlicher Aussicht über Hafen & Meer.<br>
+  📍 Borgo Marina, Imperia</p>
+
+  <h2>🍦 Eisdielen</h2>
+
+  <h3>Gelateria Pinotto (Marina)</h3>
+  <p>Historische Eisdiele in Porto Maurizio, bekannt für hervorragendes Eis. Glutenfreie Optionen mit glutenfreien Waffeln.<br>
+  📍 Via Scarincio 98, 18100 Imperia</p>
+
+  <hr>
+
+  <h3>Gelateria La Foce (Borgo Foce)</h3>
+  <p>Vom Gambero Rosso ausgezeichnete Eisdiele. Glutenfreie Optionen mit glutenfreien Waffeln.<br>
+  📍 Spianata Luigi Varese 4, Imperia<br>
+  ☎️ <a href="tel:+390183684781">+39 0183 684781</a></p>
+
+  <h2>🥐 Glutenfreie Bäckerei</h2>
+
+  <h3>Il Fornaio di Alassio</h3>
+  <p>Glutenfreie Bäckerei mit Brot, Focaccia, Gebäck und Kuchen.<br>
+  📍 Via XX Settembre 27, Alassio<br>
+  ☎️ <a href="tel:+390182640576">+39 0182 640576</a><br>
+  ✉️ <a href="mailto:ilfornaiodialassio@live.it">ilfornaiodialassio@live.it</a><br>
+  🌐 <a href="https://www.ilfornaiodialassio.it/en-gb/gluten-free" target="_blank">Website öffnen</a></p>
 `,
   beaches: `
     <h1>Strände & Baden</h1>
