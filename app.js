@@ -297,79 +297,168 @@ const pages = {
     <p>Hunde sind bei uns herzlich willkommen. Aus Rücksicht auf zukünftige Gäste bitten wir Sie jedoch, Hunde nicht auf Sofas oder Betten zu lassen.</p>
   `,
 
-  restaurants: `
+    restaurants: `
     <h1>Restaurants & Cafés</h1>
 
-    <h2>Montegrazie</h2>
+    <p>In Montegrazie gibt es 2 Restaurants, das "Ristorante al Santuario" mit typisch ligurischen Menü in sehr schöner Kulisse. Es empfiehlt sich aber anzurufen und zu reservieren da es nicht immer offen hat. Schöner kleiner Fussweg vom Haus zur Wallfahrtskirche und ein weiteres, "Cappelan" im unteren Dorf.</p>
 
-    <p><strong>Ristorante al Santuario</strong><br>
-    Traditionelle ligurische Küche direkt bei der Wallfahrtskirche. Bitte reservieren.<br>
-    Roberto spricht auch Englisch.<br>
-    <a href="tel:+39018369192">+39 0183 69192</a><br>
-    <a href="tel:+393382675498">+39 338 2675498</a></p>
+    <h2>Ristorante al Santuario (Montegrazie)</h2>
+    <p>Besitzer Roberto spricht auch englisch ☎️ +39 0183 69192 +393382675498</p>
 
-    <p><strong>Ca du Cappellan</strong><br>
-    Einfaches Restaurant im unteren Dorf. Bitte vorher anrufen.<br>
-    <a href="tel:+390183730979">+39 0183 730979</a><br>
-    <a href="tel:+393398521470">+39 339 8521470</a><br>
-    <a href="http://www.acaducappellan.it" target="_blank">Website öffnen</a></p>
+    <hr>
 
-    <h2>Imperia</h2>
+    <h2>Ca du capellan (Montegrazie)</h2>
+    <p>Einfaches Restaurant, bitte vorher anrufen.</p>
+    <p>Tel. 0183 730979 ☎️ 339 8521470<br>
+    <a href="http://www.acaducappellan.it" target="_blank">http://www.acaducappellan.it</a></p>
 
-    <p><strong>Bagni Buraxen</strong><br>
-    Strandrestaurant mit außergewöhnlicher Küche.<br>
-    Corso Giovanni Boine 2, Imperia<br>
-    <a href="tel:+39018361722">+39 0183 61722</a></p>
+    <p>Unsere Empfehlungen für Restaurants, Cafés, Bars in Imperia (besteht aus zwei Stadtteilen: Porto Maurizio und Oneglia).</p>
 
-    <p><strong>Il Moletto</strong><br>
-    Beach Bar, Lido, Frühstück, Grill und Aperitivo mit Blick auf Porto Maurizio.<br>
-    <a href="https://ilmoletto.it" target="_blank">Website öffnen</a></p>
+    <h2>🌊 Strandrestaurants & Bars in Imperia</h2>
 
-    <p><strong>Ristorante Sarri</strong><br>
-    Michelin-Stern, moderne Fischküche, Meerblick.<br>
-    <a href="https://www.ristorantesarri.it" target="_blank">Website öffnen</a></p>
+    <h3>Bagni Buraxen (Marina)</h3>
+    <p>Strand Restaurant mit außergewöhnlicher Küche, sonntags DJ von mittags bis abends. 📍 Corso Giovanni Boine 2, Imperia | ☎️ +39 0183 61722</p>
 
-    <p><strong>La Ruota</strong><br>
-    Traditions-Fischrestaurant im alten Fischerhafen Borgo Foce.<br>
-    <a href="https://laruotaimperia.com" target="_blank">Website öffnen</a></p>
+    <hr>
 
-    <p><strong>I Sognatori</strong><br>
-    Mediterrane Küche im alten Fischerhafen.<br>
-    <a href="https://isognatori.fun" target="_blank">Website öffnen</a></p>
-  `,
+    <h3>Il Moletto (Marina)</h3>
+    <p>Beach Bar & Lido – Frühstück, Grill, DJ-Musik und traumhafter Blick auf das Meer und die Altstadt von Porto Maurizio, perfekter Aperitvo Spot. 📍 Via Banchina Medaglie d’Oro, Imperia | ☎️ +39 345 0489252 | ✉️ ilmolettobeachbar@hotmail.com | 🌐 <a href="https://ilmoletto.it" target="_blank">ilmoletto.it</a></p>
 
-  glutenfree: `
-    <h1>Glutenfrei</h1>
+    <hr>
 
-    <p>Viele Restaurants in Italien bieten glutenfreie Gerichte an. Bitte weisen Sie bei der Reservierung ausdrücklich auf eine Glutenunverträglichkeit oder Zöliakie hin.</p>
+    <h3>Il Chioscetto di Fulvio (Prino)</h3>
+    <p>Kultiger Strandkiosk mit Panini & Drinks direkt am Meer und an der neuen Fahrradstrecke. 📍 Borgo Prino, Lungomare C. Colombo 112, Imperia</p>
 
-    <h2>Glutenfreie Pizza</h2>
-    <ul>
-      <li>Fermento, Oneglia</li>
-      <li>Il Melograno, Oneglia</li>
-      <li>Kilo Pizza, Borgo Prino</li>
-      <li>Oasi La Pizza, Borgo Marina</li>
-    </ul>
+    <hr>
 
-    <h2>Restaurants mit glutenfreien Optionen</h2>
-    <ul>
-      <li>La Ruota</li>
-      <li>I Sognatori</li>
-      <li>Bar La Terrazza sul Mare</li>
-    </ul>
+    <h3>Altamarea (Marina)</h3>
+    <p>Strandrestaurant direkt am Meer, frischer Fisch, entspannte Strandatmosphäre. 📍 Lungomare C. Colombo 176, Borgo Prino, Imperia | ☎️ +39 0183 63750</p>
+
+    <hr>
+
+    <h3>Bar La Terrazza sul Mare (Prino)</h3>
+    <p>Aperitivi & Snacks mit herrlicher Aussicht über Hafen & Meer. 📍 Borgo Marina, Imperia (glutenfreie Optionen)</p>
+
+    <hr>
+
+    <h3>Prino 58 (Prino)</h3>
+    <p>Außergewöhnliches, sehr kleines Restaurant für Austern- und Meeresfrüchten Spezialitäten, unbedingt reservieren 📍 Borgo Prino, Lungomare C. Colombo 58, Imperia | ☎️ +39 349 547 6615</p>
+
+    <hr>
+
+    <h3>Ristorante Sarri (Prino)</h3>
+    <p>Michelin-Stern, moderne Fischküche, Meerblick. 📍 Lungomare C. Colombo 108, Borgo Prino, Imperia | ☎️ +39 0183 754056 | 🌐 <a href="https://ristorantesarri.it" target="_blank">ristorantesarri.it</a></p>
+
+    <hr>
+
+    <h3>La Ruota (Borgo Foce)</h3>
+    <p>Traditions-Fischrestaurant seit 1979, exzellente mediterrane Küche. Romantisch gelegen im alten Fischerhafen 📍 Largo Spianata Varese 25, Imperia | ☎️ 0183 61206 | 🌐 <a href="https://laruotaimperia.com" target="_blank">laruotaimperia.com</a> (glutenfreie Optionen)</p>
+
+    <hr>
+
+    <h3>I Sognatori (Borgo Foce)</h3>
+    <p>Mediterrane Küche, Romantisch gelegen im alten Fischerhafen (glutenfreie Optionen). 📍 Largo Varese 16, Imperia | ☎️ +39 0183 63179 | 🌐 <a href="https://isognatori.fun" target="_blank">isognatori.fun</a></p>
+
+    <hr>
+
+    <h3>Kilo Pizza (Borgo Prino)</h3>
+    <p>Spezialisiert auf Pinsa Romana (leichte Gourmet-Pizza)(glutenfreie Optionen). 📍 Lungomare C. Colombo 188, Imperia | ☎️ +39 0183 681213</p>
+
+    <hr>
+
+    <h3>Oasi La Pizza (Borgo Marina)</h3>
+    <p>Pizzeria seit 1984, große Auswahl, auch Pasta & Terrasse. Rotierendes Pizza System 📍 Piazza Sant’Antonio 15, Imperia | ☎️ +39 0183 666892 | 🌐 <a href="https://oasilapizza.it" target="_blank">oasilapizza.it</a></p>
+
+    <hr>
+
+    <h3>Olio Grosso (Parasio)</h3>
+    <p>Slow-Food-Osteria, Fisch & regionale Spezialitäten. Schön gelegen auf dem Altstadthügel 📍 Parasio, Imperia | ☎️ +39 0183 60815</p>
+
+    <hr>
+
+    <h3>L’Amuen (Parasio)</h3>
+    <p>Lokale Pizzeria & Osteria mit traditioneller Küche. 📍 Via San Leonardo 14, Imperia | ☎️ +39 347 941 7856</p>
+
+    <hr>
+
+    <h3>Il Melograno (Oneglia, Hafen)</h3>
+    <p>Pizzeria am Hafen mit 4 verschiedene Pizzateigen, (glutenfreie Optionen) 📍 Via Des Geneys 12 / Calata G. B. Cuneo 7, Imperia | ☎️ +39 0183 272907</p>
+
+    <hr>
+
+    <h3>Fermento (Oneglia, Hafen)</h3>
+    <p>Pizzeria mit vielen Teigvarianten, beste glutenfreie Pizza Imperias. Adresse: Calata G.B. Cuneo 49, Imperia ☎️ 0183 1972008</p>
+
+    <h2>☕ Cafés & Bars</h2>
+
+    <h3>Orto Bar (Oneglia Hafen)</h3>
+    <p>Bar mit Cocktails, Musik und entspannter Atmosphäre in der Nähe des Hafens</p>
+
+    <hr>
+
+    <h3>Surf /Taste of Surf (Oneglia Hafen)</h3>
+    <p>Junges und modernes Restaurant am Hafen mit außergewöhnlichen Kreationen. 🌐 <a href="https://www.tasteofsurf.it" target="_blank">www.tasteofsurf.it</a></p>
+
+    <hr>
+
+    <h3>Monkeys Bar (Oneglia Hafen)</h3>
+    <p>Bar mit toller Getränkeauswahl, freundlichen Service und intime Atmosphäre. 📍Calata Giovanni Battista Cuneo 5, Imperia ☎️ +39 0183 881647 🌐 <a href="https://threemonkeys3m.com" target="_blank">threemonkeys3m.com</a></p>
+
+    <hr>
+
+    <h3>Cafe del Porto (Oneglia Hafen)</h3>
+    <p>Café mit Blick aufs Hafenbecken, ideal für Kaffee, Crostata, Gubeletti, Snacks und handgemachte Speisen. Adresse: Piazza De Amicis 9, Imperia (Oneglia) ☎️ +39 329 4717575 / 0183 681545 <a href="https://caffe-del-porto-imperia.it" target="_blank">caffe-del-porto-imperia.it</a></p>
+
+    <hr>
+
+    <h3>Caffè Piccardo (Oneglia Innenstadt)</h3>
+    <p>Historisches Café im Herzen von Oneglia, berühmt für Torten, Eis & Espresso. 📍 Piazza Dante 29, Imperia | ☎️ +39 0183 63546 | 🌐 <a href="https://piccardopasticceria.it" target="_blank">piccardopasticceria.it</a></p>
+
+    <hr>
+
+    <h3>Café Pepito (Porto Innenstadt)</h3>
+    <p>Beliebter Treff für Frühstück, Aperitivo & Snacks. 📍 Piazza Goito 14, Imperia | ☎️ +39 0183 292559 • Bar La Terrazza sul Mare – Aperitivi mit Panorama über den Yachthafen.</p>
+
+    <h2>🏞️ Umland von Imperia</h2>
+
+    <h3>Ristorante Val Prino (Molini di Prelà)</h3>
+    <p>Familienrestaurant mit Menü mit ligurischen Klassikern. 📍 Piazza Umberto I, 8, 18020 Molini (Prelà) | ☎️ +39 0183 282230</p>
+
+    <hr>
+
+    <h3>Casa della Rocca (Dolcedo)</h3>
+    <p>Kreative ligurische Küche mit internationalen Einflüssen. 📍 Via Ripalta 3, Dolcedo | ☎️ +39 0183 682648 | 🌐 <a href="https://ristorantecasadellarocca.it" target="_blank">ristorantecasadellarocca.it</a></p>
+
+    <hr>
+
+    <h3>Osteria Tunù (Da Tunu, Dolcedo)</h3>
+    <p>Gemütlich, einfach & familiär, Aperitivi, gute ligurische Küche. 📍 Piazza Andrea Doria 2, Dolcedo | ☎️ +39 0183 961258</p>
+
+    <hr>
+
+    <h3>Al Santuario (Montegrazie)</h3>
+    <p>Rustikales Agriturismo mit traditioneller Küche direkt beim der Wallfahrtskirche, fussläufig vom Haus erreichbar. 📍 Via del Santuario 1, Montegrazie | ☎️ +39 0183 69192</p>
+
+    <hr>
+
+    <h3>Osteria Osteria Vegni a vé (Villatalla)</h3>
+    <p>Einfaches aber gutes Restaurant, typisch ligurisch mit Boccia Bahn und fantastischen Blick über die Berge aufs Meer. 📍Via Tavole, 9, Villatalla, ☎️ +39320 907 8527</p>
+
+    <hr>
+
+    <h3>Equilibrio (Dolcedo)</h3>
+    <p>Michelin-Restaurant mit hoher Kochkunst – zeitgemäße Interpretationen lokaler Küche, oft mit saisonalen Zutaten aus eigenem Garten. 📍Località Martin 13, Dolcedo (IM) Telefon: +39 0183 684685</p>
 
     <h2>Eisdielen</h2>
-    <ul>
-      <li>Gelateria Pinotto</li>
-      <li>Gelateria La Foce</li>
-    </ul>
 
-    <h2>Glutenfreie Bäckerei</h2>
-    <p><strong>Il Fornaio di Alassio</strong><br>
-    Glutenfreie Bäckerei mit Brot, Focaccia, Gebäck und Kuchen.<br>
-    <a href="https://www.ilfornaiodialassio.it/en-gb/gluten-free" target="_blank">Website öffnen</a></p>
+    <h3>Gelateria Pinotto (Marina)</h3>
+    <p>Die historische Eisdiele – eine Institution in Porto Maurizio, bekannt für hervorragendes Eis (glutenfreie Optionen mit glutenfreien Waffeln) 📍Via Scarincio, 98 – 18100 Imperia</p>
+
+    <hr>
+
+    <h3>Gelateria la Foce (Borgo Foce)</h3>
+    <p>Vom Gambero Rosso ausgezeichnete Eisdiele (glutenfreie Optionen mit glutenfreien Waffeln) 📍Spianata Luigi Varese, 4, ☎️ 0183 684781</p>
   `,
-
   markets: `
     <h1>Märkte</h1>
 
