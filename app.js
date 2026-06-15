@@ -298,7 +298,7 @@ const pages = {
   `,
 
     restaurants: `
-    <img class="section-img" src="assets/shared/la-ruota-hummer.jpg" alt="Restaurants & Cafés">
+<img class="section-img" src="assets/tunin/la-ruota-hummer.jpg" alt="Restaurants & Cafés">
 
 <h1>Restaurants & Cafés</h1>
 
