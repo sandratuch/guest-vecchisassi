@@ -476,7 +476,40 @@ const pages = {
     <p>Überdachte Markthalle mit regionalen Lebensmitteln und frischen Produkten.</p>
     <p><strong>Ort:</strong> Via Felice Cascione, Porto Maurizio</p>
   `,
+glutenfree: `
+<h1>🌾 Glutenfrei in Ligurien</h1>
 
+<p>Italien gehört zu den besten Reiseländern für Menschen mit Zöliakie oder Glutenunverträglichkeit.</p>
+
+<h2>🍕 Glutenfreie Pizza</h2>
+
+<h3>Fermento (Oneglia Hafen)</h3>
+<p>Pizzeria mit vielen Teigvarianten und unserer Meinung nach der besten glutenfreien Pizza in Imperia.</p>
+
+<h3>Il Melograno (Oneglia Hafen)</h3>
+<p>Pizzeria am Hafen mit vier verschiedenen Pizzateigen und glutenfreien Optionen.</p>
+
+<h3>Kilo Pizza (Borgo Prino)</h3>
+<p>Spezialisiert auf Pinsa Romana mit glutenfreien Optionen.</p>
+
+<h3>Oasi La Pizza (Borgo Marina)</h3>
+<p>Pizzeria seit 1984 mit großer Auswahl und glutenfreien Optionen.</p>
+
+<h2>🍦 Eisdielen</h2>
+
+<p><strong>Gelateria Pinotto</strong><br>
+Glutenfreie Waffeln erhältlich.</p>
+
+<p><strong>Gelateria La Foce</strong><br>
+Glutenfreie Waffeln erhältlich.</p>
+
+<h2>🥐 Glutenfreie Bäckerei</h2>
+
+<p><strong>Il Fornaio di Alassio</strong><br>
+<a href="https://www.ilfornaiodialassio.it/en-gb/gluten-free" target="_blank">
+Website öffnen
+</a></p>
+`,
   beaches: `
     <h1>Strände & Baden</h1>
 
