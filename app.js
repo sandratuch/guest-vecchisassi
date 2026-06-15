@@ -325,8 +325,7 @@ Tel. +39 0183 730979 | +39 339 8521470<br>
 Tel. +39 0183 61722</p>
 
 <hr>
-
-<img class="section-img" src="assets/shared/moletto.jpg" alt="Il Moletto">
+<img class="section-img" src="assets/tunin/moletto.jpg" alt="Il Moletto">
 
 <h3>Il Moletto</h3>
 <p>Beach Bar & Lido mit Frühstück, Grill, Musik und traumhaftem Blick auf Porto Maurizio.<br>
@@ -352,7 +351,7 @@ Tel. +39 349 5476615</p>
 <p>Michelin-Stern, moderne Fischküche mit Meerblick.<br>
 <a href="https://ristorantesarri.it" target="_blank">ristorantesarri.it</a></p>
 
-<img class="section-img" src="assets/shared/la-ruota-austern.jpg" alt="Borgo Foce">
+<img class="section-img" src="assets/tunin/la-ruota-austern.jpg" alt="La Ruota">
 
 <h2>Borgo Foce</h2>
 
@@ -433,7 +432,8 @@ Tel. +39 349 5476615</p>
 <h3>Gelateria La Foce</h3>
 <p>Ausgezeichnet vom Gambero Rosso.</p>
  `,
-markets: `
+markets: 
+  <img class="section-img" src="assets/tunin/strasse.jpg" alt="Ligurisches Leben">
 <h1>Märkte</h1>
 
 <h2>Wochenmarkt Oneglia</h2>
@@ -505,6 +505,7 @@ Website besuchen
 `,
   beaches: `
     <h1>Strände & Baden</h1>
+    <img class="section-img" src="assets/tunin/spiaggia.jpg" alt="Spiaggia d'Oro">
 
     <p>In Imperia gibt es ein großes Angebot an Stränden: Sandstrand mit Liegen, freie Strände und auch Hundestrände.</p>
 
